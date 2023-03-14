@@ -1,0 +1,467 @@
+/* fonts {
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+} */
+
+/* colors {
+    black: #292f36;
+} */
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+hr {
+    border: 1px solid black;
+    width: 60%;
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+    width: 100%;
+    background-color: #3a3a3a;
+}
+
+.navbar-content {
+    display: flex;
+    flex-direction: row;
+    color: #ffffff;
+    margin: auto;
+    width: 100%;
+}
+
+.navbar-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    font-family: 'Lora', serif;
+}
+
+.navbar-logo img {
+    height: 2.5rem;
+}
+
+.navbar-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid white; */
+    width: 70%;
+}
+
+.navbar-links p {
+    padding: 0 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+
+.container-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+}
+
+.banner-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-image: url('../Home/homeBanner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 100%;
+}
+
+.banner-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.banner-info-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35rem;
+    background-color: #ffffff99;
+}
+
+.banner-info-details {
+    width: 35rem;
+    background-color: #ffffff99;
+}
+
+.banner-info-details p {
+    /* font-family: 'Hind Madurai', sans-serif; */
+    padding: 0 4.5rem;
+    margin: 1rem 0;
+}
+
+.banner-info-details p:last-child {
+    padding-bottom: 3rem;
+}
+
+.preview-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.preview-card {
+    margin-bottom: 4rem;
+}
+
+.preview-image {
+    background-image: url('../Home/homeBanner.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 25rem;
+    width: 24rem;
+}
+
+.preview-image-info {
+    display: flex;
+    position: relative;
+    height: 100%;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1));
+}
+
+.preview-image-info img {
+    width: 18rem;
+    height: auto;
+    margin: auto;
+}
+
+.button-view-more-properties button {
+    background-color: #3a3a3a;
+    color: white;
+    font-size: 18px;
+    width: 49rem;
+    height: 3rem;
+    border-radius: 5px;
+    border: none;
+}
+
+.button-view-more-properties button:hover {
+    background-color: #3a3a3a77;
+    border: 1px solid #3a3a3a;
+    color: #3a3a3a;
+    transition: 500ms;
+    font-weight: 400;
+}
+
+.email-container {
+    height: 100%;
+    width: 100%;
+}
+
+.contact-and-input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+}
+
+.contact {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    margin-bottom: auto;
+}
+
+.contact-title {
+    width: 100%;
+    text-align: center;
+}
+
+/* .contact-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: auto;
+    width: 100%;
+    padding: 0.6rem;
+    color: #3a3a3a88;
+    height: 100%;
+    /* border: 1px solid red; */
+}
+
+.contact-info i {
+    padding: 0 1rem;
+    font-size: 1.5rem;
+    /* border: 1px solid green; */
+    width: 1rem;
+}
+
+.contact-info p {
+    text-align: left;
+    margin: 0;
+    padding: 0.4rem 0rem;
+    width: 10rem;
+    font-family: 'Lato', sans-serif;
+    /* border: 1px solid blue; */
+}
+
+.input {
+    width: 50%;
+}
+
+.input-container {
+    width: 100%;
+}
+
+/* .input-container div {
+    padding-left: 5rem;
+} */
+
+
+.input-container input {
+    width: 100%;
+    height: 2.5rem;
+    margin: 1rem 0;
+    border: 1px solid #3a3a3a88;
+    border-radius: 2px;
+}
+
+.input-container input[type='textbox'] {
+    height: 10rem;
+}
+
+.input-container input::placeholder {
+    padding-left: 1rem;
+    color: #3a3a3a88;
+}
+
+.input-container button {
+    background-color: #3a3a3a;
+    color: #ffffff;
+    height: 3rem;
+    width: 10rem;
+    border: none;
+    border-radius: 2px;
+}
+
+.input-container button:hover {
+    background-color: lightgray;
+    color: #3a3a3a;
+    border: 1px solid #3a3a3a;
+}
+
+.card-properties-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.card-properties {
+    width: 100%;
+    height: 38.5rem;
+    margin: 4rem 0;
+}
+
+.card-status {
+    position: absolute;
+    background-color: blue;
+    color: white;
+    left: 0;
+    top: 1rem;
+    padding: 0.5rem;
+    font-family: 'Lato', serif;
+}
+
+.card-price {
+    position: absolute;
+    background-color: blue;
+    color: white;
+    bottom: 1rem;
+    left: 1rem;
+}
+
+.card-info {
+    font-family: 'Lato', serif;
+    color: #3a3a3a88;
+}
+
+.card-info h3 {
+    margin: 0.5rem 0 1rem;
+    color: #3a3a3a;
+    font-size: 1.2rem;
+}
+
+/* .card-info:last-child {
+    border-bottom: 1px solid #3a3a3a77;
+} */
+
+.text-filler {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+}
+
+.text-filler-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    width: 45rem;
+    color: #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
+    padding: 2rem;
+}
+
+.text-filler-info {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: justify;
+    width: 50%;
+    padding-top: 0;
+    margin-top: 0;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.footer {
+    height: 20rem;
+    width: 100%;
+    margin-top: 4rem;
+    background-color: #3a3a3a;
+    color: #ffffff;
+}
+
+.footer-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+}
+
+.footer-links h3 {
+    margin-left: 6rem;
+}
+
+.footer-links p {
+    line-height: 0.5rem;
+    margin-left: 6rem;
+    /* padding-left: 5rem; */
+}
+
+.footer-info div {
+    padding: 2rem;
+    margin: auto;
+    width: 33.3%;
+    height: 13rem;
+}
+
+.text-justify {
+    text-align: left;
+}
+
+.text-line-height-12rem {
+    line-height: 1.5rem;
+}
+
+.font-green {
+    color: rgb(0, 126, 0);
+}
+
+.font-blue {
+    color: blue;
+}
+
+.font-size-25rem {
+    font-size: 2.5rem;
+}
+
+.font-size-15rem {
+    font-size: 1.5rem;
+}
+
+.font-hind {
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.font-lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.font-lora {
+    font-family: 'Lora', serif;
+}
+
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-300 {
+    font-weight: 300;
+}
+
+.font-justify {
+    text-align: justify;
+}
+
+.font-spacing {
+    word-spacing: 2px;
+}
+
+.margin-zero {
+    margin: 0;
+}
