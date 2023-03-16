@@ -3,12 +3,15 @@
         "id": "psar01",
         "name": "Air Residences",
         "status": "PRE-SELLING",
+        "logo": "https://smdc.com/content/uploads/2022/10/Air-Residences-1.pnghttps://smdc.com/content/uploads/2022/10/Air-Residences-1.png",
         "cardAddress": "Corner Yakal and Malugay Streets, Brgy San Antonio, Makati City",
         "cardDiscount": "",
         "cardPrice": "Php 17,000 / Monthly",
         "cardDescription": "Nothing says you've made it quite like a Makati Address. Like a jet plane in flight, Air soars above the sky with Makati City as its runway.",
-        "cardImage": "../components/Home/homeBanner.jpg",
+        "cardImage": "https://smdc.com/content/uploads/2022/10/Air-Asset-H.png",
         "bannerAbout": "Nothing says you've made it quite like a Makati Address. Air Residences gives you a privileged lifestyle combining a convenient location with the luxurious comfort of its signature amenities. Located within the Philippines' premier business and financial district, Air Residences brings you to the doorstep of success.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Front Desk",
             "12 Elevators",
@@ -29,26 +32,40 @@
             "Children's Play Area",
             "Sports/Yoga Terrace"
         ],
-        "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "bannerImage": "https://smdc.com/content/uploads/2022/10/Air-Asset-H.png",
+        "galleryAmenities": [
+            "https://smdc.com/content/uploads/2022/10/Air-Resi.png",
+            "https://smdc.com/content/uploads/2022/10/image-235.jpg",
+            "https://smdc.com/content/uploads/2022/10/Air-Asset-1.jpg",
+            "https://smdc.com/content/uploads/2022/10/image-264.jpg",
+            "https://smdc.com/content/uploads/2022/10/Air-Asset-2.jpg",
+            "https://smdc.com/content/uploads/2022/10/Air-Asset-2.jpg"
+        ],
+        "galleryLobby": [
+            "https://smdc.com/content/uploads/2014/08/Lobby-Air2.jpg",
+            "https://smdc.com/content/uploads/2014/08/Lobby-Air.jpg"
+        ],
+        "galleryUnits": [
+            "https://smdc.com/content/uploads/2022/10/image-202-2.jpg",
+            "https://smdc.com/content/uploads/2022/10/image-623.jpg",
+            "https://smdc.com/content/uploads/2022/10/image-238.jpg",
+            "https://smdc.com/content/uploads/2022/10/image-239.jpg",
+            "https://smdc.com/content/uploads/2022/10/image-202-2.jpg"
+        ]
     },
     {
         "id": "pscr02",
         "name": "Coast Residences",
         "status": "PRE-SELLING",
+        "logo": "https://smdc.com/content/uploads/2020/04/Coast-Residences.png",
         "cardAddress": "Roxas Blvd. corner Dapitan St. Pasay City",
         "cardDiscount": "10% Discount",
         "cardPrice": "Php 17,000 / Monthly",
         "cardDescription": "This exquisite condo development has set the standard for leisure with its choicest amenities and features.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "New views await you at Coast Residences, the newest SMDC Premier Development. Situated in Roxas Boulevard, Coast Residences gives grand views of the Manila Bay Sunset and the Metro Manila Cityscape. With a stunning exterior design and interiors inspired by Bali's top hotels, Coast Residences gives you a new view on premier condo living.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Grand Lobby",
             "Penthouse",
@@ -66,14 +83,23 @@
             "Meditation Garden"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "galleryAmenities": [
+            "https://smdc.com/content/uploads/2016/01/Amenity3.png",
+            "hhttps://smdc.com/content/uploads/2016/01/Amenity1.png",
+            "https://smdc.com/content/uploads/2016/01/Amenity4.png",
+            "https://smdc.com/content/uploads/2016/01/SkyLounge2.png",
+            "https://smdc.com/content/uploads/2016/01/SkyLounge3.png",
+            "https://smdc.com/content/uploads/2016/01/SkyLounge1.png"
+        ],
+        "galleryLobby": [
+            "https://smdc.com/content/uploads/2016/01/Lobby3.png",
+            "https://smdc.com/content/uploads/2016/01/Lobby1.png",
+            "https://smdc.com/content/uploads/2016/01/Lobby2.png"
+        ],
+        "galleryUnits": [
+            "https://smdc.com/content/uploads/2020/04/SMDC-Coast_1BR_090216R00_HIGH-RES-scaled.jpg",
+            "https://smdc.com/content/uploads/2020/04/SMDC-Coast_1BR_140116R00_V1.jpg"
+        ]
     },
     {
         "id": "psbr03",
@@ -85,6 +111,8 @@
         "cardDescription": "Bloom Residences in Paranaque is home-sweet home that's luxuriously comfortable. Strategically located in Sucat, everything you'll ever need is right within your reach.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "​Have a glimpse of the life lived in glitz and glamour, with gold curtain walls that surround this luminescent development. Inspired by the entertainment industry's zest for recognition, Fame Residences stands proud as the crowning glory of Central EDSA. A trophy providing a true sense of prominence to its residents.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "24-hour security",
             "Centralized Water District",
@@ -111,14 +139,14 @@
             "Lawn Area"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psfr04",
@@ -130,6 +158,8 @@
         "cardDescription": "Inspired by the entertainment industry's zest for recognition, Fame Residences stands proud as the crowning glory of Central EDSA.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "​Have a glimpse of the life lived in glitz and glamour, with gold curtain walls that surround this luminescent development. Inspired by the entertainment industry’s zest for recognition, Fame Residences stands proud as the crowning glory of Central EDSA. A trophy providing a true sense of prominence to its residents.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "2Swimming Pool, Kiddie Pool",
             "Walk of Fame",
@@ -142,14 +172,14 @@
             "Amenity Lobbies"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psclamr05",
@@ -161,6 +191,8 @@
         "cardDescription": "An exclusive, gated tranquil community in the midst of the highly progressive city of Sta. Rosa, Laguna. Calm Residences is a suburban walkable garden community with easy access to commercial spaces and transport hubs.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "​An exclusive, gated tranquil community in the midst of the highly progressive city of Sta. Rosa, Laguna. Calm Residences is a suburban walkable garden community with easy access to commercial spaces and transport hubs. It features interconnected linear parks, complete resort styled amenities and sports facilities, hotel-like lobbies and lounges with strong Wi-Fi connections for families and working professionals who long to live in a safe, secure and tranquil home for him and his family.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Lap Pool",
             "Grand Gateway",
@@ -178,14 +210,14 @@
             "Function Room"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pscheerr06",
@@ -197,6 +229,8 @@
         "cardDescription": "Start afresh in a home that inspires you to have the best beginning fitting for your life. Experience daily happiness and joy here at Cheer Residences, a luxurious yet affordable home for those who seek comfort and convenience.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Explore and experience a full suite of amenities here at Cheer Residences. Choosing activities for rest and relaxation is made easy with a wide array of options available. The clubhouse is appointed with several features and the swimming pool is sure to become a popular place among friends and families. Have the space for fun and rest right within this complete community.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "24 Hour Security",
             "Automatic Fire Sprinkler System",
@@ -213,14 +247,14 @@
             "Flexi Suite Bedroom"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pscheerfulh07",
@@ -232,6 +266,8 @@
         "cardDescription": "Come home to SMDC Cheerful Homes, the sure and wise choice. It is strategically located in Mabalacat, Pampanga and has its very own commercial area and transportation hub for your convenience. Plus, get 24-hour security for the safety of the family.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "The modern home should give you more than just shelter; it should be your sanctuary, and where your life begins. At SMDC Cheerful Homes in Mabalacat, Pampanga, you can finally say, “I belong.” Aside from a beautiful, affordable home where you can rest and relax, this is also your ideal community—a place where you can reach out and connect with others, bring up a family, and settle down in comfort and convenience.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "2Over a hectare of amenity area means a vast space that allows residents with their families and friends to bond in endless ways. From a community clubhouse with a swimming pool, a basketball court, and a multipurpose recreational court, SMDC Cheerful Homes provides a host of amenities that let you experience the good life. Our nature park also lets you walk among the greenery and find quiet restoration on its tree-lined paths. And whether you love to take leisurely strolls or you're training for fitness, our jogging and bike trails let you enhance your physical well-being."
         ],
@@ -239,14 +275,14 @@
             ""
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pscheerful2h08",
@@ -258,6 +294,8 @@
         "cardDescription": "Life is livelier and brighter when you live in SMDC Cheerful Homes 2, a 17-hectare, master-planned community with spaces that are designed to the modern Filipino lifestyle.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Life is livelier and brighter when you live in SMDC Cheerful Homes 2, a 17-hectare, master-planned community with spaces that are designed to the modern Filipino lifestyle.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Loft Type Unit",
             "Shophouse Unit"
@@ -272,14 +310,14 @@
             "Grand Lawn"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psS09",
@@ -291,6 +329,8 @@
         "cardDescription": "Live in an address where business meets pleasure, where business suits and swim suits are both on-trend.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Live in an address where business meets pleasure, where business suits and swim suits are both on-trend. At S Residences, you’ll be at the center of all the action. With SMDC Premier’s first development located in the middle of the MOA Complex and the Entertainment City, you will be closer to the thriving MOA business district and the hottest bars, trendiest shops, restaurants and entertainment spots this side of the metro.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Chillscape Lounge and Multi-function Areas",
             "Zen Park",
@@ -303,14 +343,14 @@
             "Cabana"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pslush10",
@@ -322,6 +362,8 @@
         "cardDescription": "Located in Makati, the country's leading financial and central business district, enjoy the city's premier shopping destination, parks, museums and art galleries, performance and cultural centers.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Designed to inspire balance and tranquility, its plush interiors, verdant green spaces and fitness facilities makes it more than just a home, it's a retreat.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "3 Elevators",
             "24-Hour Security and maintenance",
@@ -339,14 +381,14 @@
             "Garden"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psred11",
@@ -358,6 +400,8 @@
         "cardDescription": "Located next to the thriving central business district of Makati City, its enviable position allows you to follow your dreams and still be within walking distance of your home.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Start something big at Red Residences, a premier residential development located in the up and coming Chino Roces of Makati Central Business District. Your new home's location allows you to be within walking distance from work or your latest business venture. Take strategic breaks in between gigs at an array of amenities and spaces designed to re-energize. Allowing you to do more and achieve more",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Green Wall",
             "5 Elevators",
@@ -377,14 +421,14 @@
             "Jogging Path"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pssail12",
@@ -396,6 +440,8 @@
         "cardDescription": "Nestled along Mall of Asia Complex, Pasay City, SMDC sets a new standard in luxury residential living with Sail Residences, which exudes and aura of bliss in a harmonious ensemble of high-rise residential condominium, chic retail areas and resort-style amenities.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Bringing modern lifestyle amenities within your reach, SMDC presents Sail Residences a high-rise residential condominium development in Mall of Asia Complex, Pasay City which transports residents to a modern asian paradise.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Centralized Garbage Collection and Disposal System",
             "Mailroom",
@@ -416,14 +462,14 @@
             "Children's Play Area"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psspring13",
@@ -435,6 +481,8 @@
         "cardDescription": "Celebrate new beginnings at Spring Residences! Nurture a more fruitful life in a development that speaks of true elegance and sophistication, with Spring Residences' well-appointed amenities and custom-made interiors of its hotel-inspired lobbies.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Celebrate new beginnings at Spring Residences! Nurture a more fruitful life in a development that speaks of true elegance and sophistication, with Spring Residences’ well-appointed amenities and custom-made interiors of its hotel-inspired lobbies.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "3 Elevators Per Tower",
             "Standby Generator",
@@ -446,14 +494,14 @@
             "Invigorate your senses with refreshing dips at the pools of Spring Residences. Bask in the warmth of the sun at lounge pool, or stay fit by cutting through the waters of the lap pool. Your escape from the busy city life is now within the comforts of your home."
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pscools14",
@@ -465,6 +513,8 @@
         "cardDescription": "With SMDC's signature 5-star amenities, it is a perfect holiday home for those who enjoy the cool wind of Tagaytay.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Cool Suites is the newest garden complex in the flourishing Wind Residences estate. Nestled inside the complex is an array of lush foliage and greenery that serve as a private retreat where you can relax and recover from the busy work week. With SMDC’s signature 5-star amenities, it is a perfect holiday home for those who enjoy the cool wind of Tagaytay",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Commercial Strip at the Ground Floor (Tower A)",
             "3 Elevators per Tower",
@@ -481,14 +531,14 @@
             "Gazebos"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psfern15",
@@ -500,6 +550,8 @@
         "cardDescription": "Fern at Grass Residences is the completion of the Grass Residences complex. An iconic two tower development featuring a modern facade.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Fern at Grass Residences is the completion of the Grass Residences complex. An iconic two tower development featuring a modern façade. Rest and recreation have never been more built in. Enjoy your very own private amenity area decked with a sprawling playground, picnic areas and swimming pools. At the heart of the amenity area is the Sky Pavilion an events venue with ample space to host a wide range of events from intimate gatherings to grand celebrations complete with an outdoor spill over area for al fresco lounging",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "High-Speed Elevators",
             "24 Hour Security",
@@ -517,14 +569,14 @@
             "Cabanas"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psfieldr16",
@@ -536,6 +588,8 @@
         "cardDescription": "Designed for utmost relaxation and convenience in mind, Field Residences' strategic location, wide open spaces and generously sized amenities offers families spaces to thrive and grow.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Field Residences offers five star sub urban living south of the metro. From young to growing families, Field Residences offers a wide array of living options suited for your needs and lifestyles. Relax and bond with your loved ones at the development’s host of excellent amenities. For convenience, SM Sucat is right in front of your home and international and local airports are right nearby. Dining and shopping options abound as the Entertainment City is a short drive away. Designed for utmost relaxation and convenience in mind, Field Residences’ strategic location, wide open spaces and generously sized amenities offers families spaces to thrive and grow.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Spacious Lobbies",
             "24 Hour Security",
@@ -556,14 +610,14 @@
             "Jogging Trail"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psglader17",
@@ -575,6 +629,8 @@
         "cardDescription": "Nestled in the progressive district of Jaro, Iloilo— Glade Residences is the perfect home for successful and driven young families. Revel in verdant greens and unparalleled comfort in your own haven of relaxation.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Nestled in the progressive district of Jaro, Iloilo— Glade Residences is the perfect home for successful and driven young families. Revel in verdant greens and unparalleled comfort in your own haven of relaxation.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Adult Pool",
             "Kiddie Pool",
@@ -592,14 +648,14 @@
             "Grand Gateway"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psgemr18",
@@ -611,6 +667,8 @@
         "cardDescription": "Discover this hidden gem along C5, one of Metro Manila's most important and strategic transportation corridors. It is located in the vicinity of multiple businesses and schools, and offers easy accessibility to the nearby commercial districts of Ortigas Center, Eastwood, and BGC, as well as the NLEX and SLEX.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Gem Residences perfectly captures your modern aspiration for work-life integration. Standing gorgeously along C-5 Pasig, the thriving center of economic activity east of Metro Manila, Gem Residences brings you world-class amenities that cater to your need for both productivity and leisure.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Yoga Deck",
             "Outdoor Exercise Area",
@@ -627,14 +685,14 @@
             "Outdoor Lounge Areas"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pshill19",
@@ -646,6 +704,8 @@
         "cardDescription": "Hill Residences is the right balance of convenience and comfort. Everything you and your family need is within reach. Located near transportation hubs, restaurants, malls, and specialty stores, all you have to think about is where to go next.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Hill Residences is the right balance of convenience and comfort. Everything you and your family need is within reach. Located near transportation hubs, restaurants, malls, and specialty stores, all you have to think about is where to go next.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "Gate and Guardhouse",
             "WiFi-ready Zones",
@@ -663,14 +723,14 @@
             "Linear Parks"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psglamr20",
@@ -682,6 +742,8 @@
         "cardDescription": "A high-rise residential condominium project in GMA-Kamuning, Quezon City, carrying the SMDC brand. The development promises to deliver an exclusive and distinctive living experience.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "A high-rise residential condominium project in GMA-Kamuning, Quezon City, carrying the SMDC brand. The development promises to deliver an exclusive and distinctive living experience.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "A home that’s close to key destinations",
             "Perfect for the family looking for comfort, security and relaxation",
@@ -698,14 +760,14 @@
             "Sky Lounge with Function Rooms"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psgoldr21",
@@ -717,6 +779,8 @@
         "cardDescription": "Elevate your way of living and experience rare exclusivity with SMDC' newest iconic residential landmark in Parañaque City.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
         "bannerAbout": "Find the perfect combination of homey comfort and modern in-city living in Gold Residences. Developed with the typical urban family in mind, Gold Residences offers a seamless blend of resort-like and luxury living.",
+        "bannerFeaturesHeading": "Features",
+        "bannerAmenitiesHeading": "Amenities",
         "bannerFeatures": [
             "A home that’s close to key destinations",
             "Perfect for the family looking for comfort, security and relaxation",
@@ -735,14 +799,14 @@
             "Entertainment Room"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psgoldo22",
@@ -772,14 +836,14 @@
             "Entertainment Room"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psgreen23",
@@ -804,14 +868,14 @@
             "The well-planned amenities are designed to create a nurturing, safe and secure space. Thrive in an environment that lets you focus on achieving goals while providing you with options for a much-needed leisure time. There are features that create a conducive environment for studying and downtime while other areas are dedicated for a more active routine."
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pshope24",
@@ -843,14 +907,14 @@
             "Picnic Area"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psicee25",
@@ -859,9 +923,9 @@
         "cardAddress": "Edsa, Mall of Asia Complex",
         "cardDiscount": "",
         "cardPrice": "Php 25,800 / Monthly",
-        "cardDescription": "SMDC’s ICE Tower, a modern residential-office development that provides the luxury and comforts of a premium condominium development suited for the entrepreneurial lifestyle.",
+        "cardDescription": "SMDC's ICE Tower, a modern residential-office development that provides the luxury and comforts of a premium condominium development suited for the entrepreneurial lifestyle.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "bannerAbout": "SMDC’s ICE Tower, a modern residential-office development that provides the luxury and comforts of a premium condominium development suited for the entrepreneurial lifestyle.",
+        "bannerAbout": "SMDC's ICE Tower, a modern residential-office development that provides the luxury and comforts of a premium condominium development suited for the entrepreneurial lifestyle.",
         "bannerFeatureHeading": "Units",
         "bannerFeatures": [
             "1 Bedroom Unit",
@@ -882,14 +946,14 @@
             "Sky Lounge"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psjoyr26",
@@ -918,14 +982,14 @@
             "Greenway Park"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pslaner27",
@@ -958,14 +1022,14 @@
             "Gated Community with 24/7 Security"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psleafr28",
@@ -976,7 +1040,7 @@
         "cardPrice": "Php 11,000 / Monthly",
         "cardDescription": "Let nature nurture your family at Leaf Residences. With its unique design reminiscent of a tropical rainforest getaway, it offers the first taste of condominium living surrounded by all the greenery sought after in the South.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "bannerAbout": "Let nature nurture your family at Leaf Residences. With its unique design reminiscent of a tropical rainforest getaway, it offers the first taste of condominium living surrounded by all the greenery sought after in the South. It’s the perfect home for families looking to be one with nature.",
+        "bannerAbout": "Let nature nurture your family at Leaf Residences. With its unique design reminiscent of a tropical rainforest getaway, it offers the first taste of condominium living surrounded by all the greenery sought after in the South. It's the perfect home for families looking to be one with nature.",
         "bannerFeatureHeading": "Features",
         "bannerFeatures": [
             "Fire Alarm System",
@@ -999,14 +1063,14 @@
             "Lawn Area"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psLight2r29",
@@ -1044,14 +1108,14 @@
             "Jogging Path"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psnowr30",
@@ -1069,7 +1133,7 @@
             "Kiddie Pool",
             "Outdoor Gym",
             "Adult Swimming Pool",
-            "Kids’ Zone",
+            "Kids Zone",
             "Basketball Court"
         ],
         "bannerAmenitiesHeading": "Amenities",
@@ -1082,14 +1146,14 @@
             "Grand Gateway"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psmintr31",
@@ -1120,14 +1184,14 @@
             "Kid's Play Area"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psparkr32",
@@ -1157,14 +1221,14 @@
             "Gazebo"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pssandsr33",
@@ -1173,9 +1237,9 @@
         "cardAddress": "M.H. Del Pilar St., Malate, Manila",
         "cardDiscount": "",
         "cardPrice": "Php 18,000 / Monthly",
-        "cardDescription": "Luxury living by the bay. Live where the city’s gateway, entertainment, culture, and the Manila Bay sunset is just a heartbeat away.",
+        "cardDescription": "Luxury living by the bay. Live where the city's gateway, entertainment, culture, and the Manila Bay sunset is just a heartbeat away.",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "bannerAbout": "Experience top-notch resort living in your own bayside home in the city.Luxury living by the bay. Live where the city’s gateway, entertainment, culture, and the Manila Bay sunset is just a heartbeat away.",
+        "bannerAbout": "Experience top-notch resort living in your own bayside home in the city.Luxury living by the bay. Live where the city's gateway, entertainment, culture, and the Manila Bay sunset is just a heartbeat away.",
         "bannerFeatureHeading": "Units",
         "bannerFeatures": [
             "Studio",
@@ -1197,14 +1261,14 @@
             "Celebration Hall"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pssmiler34",
@@ -1218,7 +1282,7 @@
         "bannerAbout": "Bringing modern lifestyle amenities within your reach, SMDC presents Smile Residences a high-rise residential condominium development along the major thoroughfare of Bacolod City which transports residents to a modern asian paradise",
         "bannerFeatureHeading": "Features",
         "bannerFeatures": [
-            "A home that’s close to key destinations",
+            "A home that's close to key destinations",
             "Perfect for the family looking for comfort, security and relaxation",
             "Top-notch amenities within the development",
             "Assured increase in property values",
@@ -1236,14 +1300,14 @@
             "Entertainment Room"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pssouth2r35",
@@ -1273,14 +1337,14 @@
             "Playground"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "pstwin2r36",
@@ -1289,9 +1353,9 @@
         "cardAddress": " Alabang Zapote, Lasi Piñas City",
         "cardDiscount": "",
         "cardPrice": "Php 9,000 / Monthly",
-        "cardDescription": "Sophisticated, elegant, and metropolitan, you’ll find everything perfectly tailored to your lifestyle. Enjoy everything you need within easy reach having a home nestled between malls, supermarkets, major roads, and more!",
+        "cardDescription": "Sophisticated, elegant, and metropolitan, you'll find everything perfectly tailored to your lifestyle. Enjoy everything you need within easy reach having a home nestled between malls, supermarkets, major roads, and more!",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "bannerAbout": "Nothing says you’ve made it quite like a Makati Address. Air Residences gives you a privileged lifestyle combining a convenient location with the luxurious comfort of its signature amenities. Located within the Philippines’ premier business and financial district, Air Residences brings you to the doorstep of success",
+        "bannerAbout": "Nothing says you've made it quite like a Makati Address. Air Residences gives you a privileged lifestyle combining a convenient location with the luxurious comfort of its signature amenities. Located within the Philippines' premier business and financial district, Air Residences brings you to the doorstep of success",
         "bannerFeatureHeading": "Features",
         "bannerFeatures": [
             "Front Desk",
@@ -1315,14 +1379,14 @@
             "Sports / Yoga Terrace"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psvailr36",
@@ -1331,9 +1395,9 @@
         "cardAddress": "Cagayan De Oro City",
         "cardDiscount": "",
         "cardPrice": "Sold Out",
-        "cardDescription": "Welcome a new way of life with Vail Residences located in Mindanao’s finest neighborhood: Uptown, Cagayan de Oro City!",
+        "cardDescription": "Welcome a new way of life with Vail Residences located in Mindanao's finest neighborhood: Uptown, Cagayan de Oro City!",
         "cardImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "bannerAbout": "Welcome a new way of life with Vail Residences located in Mindanao’s finest neighborhood: Uptown, Cagayan de Oro City!",
+        "bannerAbout": "Welcome a new way of life with Vail Residences located in Mindanao's finest neighborhood: Uptown, Cagayan de Oro City!",
         "bannerFeatureHeading": "Amenities",
         "bannerFeatures": [
             "Adult Pool",
@@ -1353,14 +1417,14 @@
             "Grand Gateway"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     },
     {
         "id": "psviner37",
@@ -1385,8 +1449,8 @@
             "Central Park with Sunken Gardens",
             "Jogging Trail",
             "Adult Lounge Pools",
-            "Children’s Splash Pool",
-            "Children’s Play Zone",
+            "Children's Splash Pool",
+            "Children's Play Zone",
             "Fitness Circuit Zone",
             "Lounge Pods",
             "Vine Nature Park",
@@ -1396,13 +1460,13 @@
             "Volleyball Court"
         ],
         "bannerImage": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1972&q=80",
-        "gallery": {
-            "image01": "image01",
-            "image02": "image02",
-            "image03": "image03",
-            "image04": "image04",
-            "image05": "image05",
-            "image06": "image06"
-        }
+        "gallery": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     }
 ]

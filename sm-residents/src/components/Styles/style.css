@@ -22,6 +22,11 @@ hr {
     width: 60%;
 }
 
+ol {
+    list-style-type: circle;
+    color: #3a3a3a;
+}
+
 .navbar-container {
     display: flex;
     align-items: center;
@@ -185,7 +190,7 @@ hr {
 }
 
 .email-container {
-    height: 100%;
+    height: 90vh;
     width: 100%;
 }
 
@@ -194,7 +199,7 @@ hr {
     align-items: center;
     justify-content: center;
     width: 100%;
-    margin: auto;
+    margin: 10rem auto auto auto;
 }
 
 .contact {
@@ -209,7 +214,8 @@ hr {
 
 .contact-title {
     width: 100%;
-    text-align: center;
+    text-align: left;
+    padding-left: 2rem;
 }
 
 /* .contact-div {
@@ -339,12 +345,60 @@ hr {
     border-bottom: 1px solid #3a3a3a77;
 } */
 
-.text-filler {
+.single-item-banner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.single-item-banner-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.single-item-banner-container div {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 29%;
+    height: 30rem;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    word-spacing: 5px;
+    border-radius: 5px;
+}
+
+.single-item-banner-container p,
+li {
+    color: #3a3a3a88;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+}
+
+.single-item-banner-container li {
+    padding-right: 2rem;
+    line-height: 1.7rem;
+    text-align: left;
+}
+
+.single-item-banner-container p {
+    padding: 1rem 2rem 2rem 2rem;
+    text-align: left;
+}
+
+.gallery {
     display: flex;
     align-items: center;
-    justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    justify-content: space-around;
+}
+
+.gallery img {
+    width: 100%;
+    margin-bottom: 2rem;
+    box-shadow: 1px 1px 10px 1px #3a3a3a;
 }
 
 .text-filler-title {
@@ -352,10 +406,20 @@ hr {
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    width: 45rem;
+    width: 50rem;
     color: #3a3a3a;
     border-bottom: 1px solid #3a3a3a;
     padding: 2rem;
+    margin: auto;
+}
+
+.text-filler h3 {
+    color: rgba(0, 0, 0, 0.3);
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 5px;
+    margin-top: 0;
 }
 
 .text-filler-info {
@@ -363,9 +427,9 @@ hr {
     font-weight: 600;
     font-size: 1rem;
     text-align: justify;
-    width: 50%;
+    width: 70%;
+    margin: 1rem auto;
     padding-top: 0;
-    margin-top: 0;
     color: rgba(0, 0, 0, 0.3);
 }
 
@@ -400,6 +464,10 @@ hr {
     margin: auto;
     width: 33.3%;
     height: 13rem;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .text-justify {
@@ -464,4 +532,12 @@ hr {
 
 .margin-zero {
     margin: 0;
+}
+
+.margin-top-5rem {
+    margin-top: 5rem;
+}
+
+.padding-left-2rem {
+    padding-left: 2rem;
 }

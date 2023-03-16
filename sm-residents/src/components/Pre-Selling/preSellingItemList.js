@@ -1,7 +1,14 @@
+import { useContext } from 'react';
+import { MyContext } from '../../context';
+
 import someImg from '../Home/homeBanner.jpg'
 const PreSellingItemList = (props) => {
-    // console.log(item.id);
+    // console.log(props.index);
+    const context = useContext(MyContext);
+
+    const handleShowDivIndex = context.handleShowDivIndex;
     const item = props.items;
+    const divIndex = props.index;
 
     const cardBackground = {
         backgroundImage: `url(${someImg})`,
@@ -12,7 +19,7 @@ const PreSellingItemList = (props) => {
     };
 
     const appendItems = () => {
-        return <div className='card-properties' key={item.id} data-aos="fade-up" data-aos-duration="1000">
+        return <div className='card-properties' key={item.id} data-index={divIndex} data-aos="fade-up" data-aos-duration="1000" onClick={handleShowDivIndex}>
             <div className='card-properties-image-container' style={{ ...cardBackground }}>
                 <p className='card-status'>{item.status}</p>
             </div>

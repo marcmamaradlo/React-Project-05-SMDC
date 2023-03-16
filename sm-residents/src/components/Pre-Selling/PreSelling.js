@@ -5,6 +5,7 @@ import Navbar from "../Navbar";
 import Email from "../Email";
 import Footer from "../Footer";
 // import PreSellingItemList from "./preSellingItemList";
+import PreSellingSingleItem from "./PreSellingSingleItem";
 
 const PreSelling = () => {
 
@@ -22,6 +23,7 @@ const PreSelling = () => {
             </div>
             <div className='container'>
                 <div className='card-properties-container'>
+                    <PreSellingSingleItem />
                     {handlePreSellingMapFunction()}
                 </div>
             </div>

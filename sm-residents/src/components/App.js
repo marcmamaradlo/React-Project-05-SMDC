@@ -8,7 +8,8 @@ import 'aos/dist/aos.css';
 // import Banner from "./Home/Banner";
 // import Footer from "./Footer";
 // import HomeAirResidences from '../components/AirResidences/HomeAirResidences';
-import PreSelling from './Pre-Selling/PreSelling';
+// import PreSelling from './Pre-Selling/PreSelling';
+import PreSellingSingleItem from './Pre-Selling/PreSellingSingleItem';
 // import Home from './Home/Home';
 
 
@@ -26,7 +27,9 @@ const App = () => {
             <Footer /> */}
             {/* <Home /> */}
             {/* <HomeAirResidences value={preSellingJSON} /> */}
-            <PreSelling />
+            {/* <PreSelling />
+             */}
+            <PreSellingSingleItem />
         </MyProvider>
     )
 }
