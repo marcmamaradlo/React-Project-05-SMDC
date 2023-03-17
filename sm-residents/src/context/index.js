@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-import preSellingJSON from '../components/preSelling.json';
+import preSellingJSON from '../preSelling.json';
 import PreSellingItemList from "../components/Pre-Selling/preSellingItemList";
 // import PreSellingSingleItem from "../components/Pre-Selling/PreSellingSingleItem";
-
 const MyContext = React.createContext();
 
 class MyProvider extends Component {

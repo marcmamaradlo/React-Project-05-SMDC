@@ -18,8 +18,15 @@ const PreSellingItemList = (props) => {
         position: 'relative'
     };
 
-    const appendItems = () => {
-        return <div className='card-properties' key={item.id} data-index={divIndex} data-aos="fade-up" data-aos-duration="1000" onClick={handleShowDivIndex}>
+    const itemList = () => {
+        return <div
+            key={item.id}
+            className='card-properties'
+            data-aos="fade-up"
+            data-aos-duration="1000"
+            data-index={divIndex}
+            onClick={handleShowDivIndex}
+        >
             <div className='card-properties-image-container' style={{ ...cardBackground }}>
                 <p className='card-status'>{item.status}</p>
             </div>
@@ -35,7 +42,7 @@ const PreSellingItemList = (props) => {
 
     return (
         <>
-            {appendItems()}
+            {itemList()}
         </>
     )
 }

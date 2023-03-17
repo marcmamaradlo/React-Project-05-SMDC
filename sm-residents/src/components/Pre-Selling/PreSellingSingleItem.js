@@ -3,6 +3,7 @@ import { MyContext } from "../../context";
 import Navbar from "../Navbar";
 import Email from "../Email";
 import Footer from "../Footer";
+// import thisImage from '../Images/Air/bannerImage.jpg';
 
 const PreSellingSingleItem = () => {
 
@@ -29,18 +30,11 @@ const PreSellingSingleItem = () => {
         <li key={index}>{amenities}</li>
     ))
 
-    const galleryAmenities = singleItem.galleryAmenities.map((images, index) => (
+    const gallery = singleItem.gallery.map((images, index) => (
         <img src={images} key={index} alt='Gallery' data-aos="fade-up" data-aos-duration="1000" />
+        // <img src={require(`${images}`)} key={index} alt='Gallery' data-aos="fade-up" data-aos-duration="1000" />
     ))
 
-    const galleryLobby = singleItem.galleryLobby.map((images, index) => (
-        <img src={images} key={index} alt='Gallery' data-aos="fade-up" data-aos-duration="1000" />
-    ))
-
-    const galleryUnits = singleItem.galleryUnits.map((images, index) => (
-        <img src={images} key={index} alt='Gallery' data-aos="fade-up" data-aos-duration="1000" />
-    ))
-    // console.log(singleItem.bannerImage)
     return (
         <>
             <Navbar />
@@ -70,21 +64,8 @@ const PreSellingSingleItem = () => {
                     <h3>GALLERY</h3>
                 </div>
                 <div className='gallery margin-top-5rem'>
-                    {galleryAmenities}
+                    {gallery}
                 </div>
-                <div className='text-filler margin-top-5rem'>
-                    <p className='text-filler-title'>Lobby</p>
-                </div>
-                <div className='gallery margin-top-5rem'>
-                    {galleryLobby}
-                </div>
-                <div className='text-filler margin-top-5rem'>
-                    <p className='text-filler-title'>Units</p>
-                </div>
-                <div className='gallery margin-top-5rem'>
-                    {galleryUnits}
-                </div>
-                {/* <img src={singleItem.bannerImage} alt='bannerImage' /> */}
             </div>
             <Email />
             <Footer />

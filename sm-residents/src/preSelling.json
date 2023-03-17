@@ -3,12 +3,15 @@
         "id": "psar01",
         "name": "Air Residences",
         "status": "PRE-SELLING",
-        "logo": "https://smdc.com/content/uploads/2022/10/Air-Residences-1.pnghttps://smdc.com/content/uploads/2022/10/Air-Residences-1.png",
+        "logo": {
+            "white": "/Images/Air Residents/airLogoWhite.png",
+            "black": "/Images/Air Residents/airLogoBlack.png"
+        },
         "cardAddress": "Corner Yakal and Malugay Streets, Brgy San Antonio, Makati City",
         "cardDiscount": "",
         "cardPrice": "Php 17,000 / Monthly",
         "cardDescription": "Nothing says you've made it quite like a Makati Address. Like a jet plane in flight, Air soars above the sky with Makati City as its runway.",
-        "cardImage": "https://smdc.com/content/uploads/2022/10/Air-Asset-H.png",
+        "cardImage": "/Images/Air Residents/cardImage.jpg",
         "bannerAbout": "Nothing says you've made it quite like a Makati Address. Air Residences gives you a privileged lifestyle combining a convenient location with the luxurious comfort of its signature amenities. Located within the Philippines' premier business and financial district, Air Residences brings you to the doorstep of success.",
         "bannerFeaturesHeading": "Features",
         "bannerAmenitiesHeading": "Amenities",
@@ -32,25 +35,9 @@
             "Children's Play Area",
             "Sports/Yoga Terrace"
         ],
-        "bannerImage": "https://smdc.com/content/uploads/2022/10/Air-Asset-H.png",
-        "galleryAmenities": [
-            "https://smdc.com/content/uploads/2022/10/Air-Resi.png",
-            "https://smdc.com/content/uploads/2022/10/image-235.jpg",
-            "https://smdc.com/content/uploads/2022/10/Air-Asset-1.jpg",
-            "https://smdc.com/content/uploads/2022/10/image-264.jpg",
-            "https://smdc.com/content/uploads/2022/10/Air-Asset-2.jpg",
-            "https://smdc.com/content/uploads/2022/10/Air-Asset-2.jpg"
-        ],
-        "galleryLobby": [
-            "https://smdc.com/content/uploads/2014/08/Lobby-Air2.jpg",
-            "https://smdc.com/content/uploads/2014/08/Lobby-Air.jpg"
-        ],
-        "galleryUnits": [
-            "https://smdc.com/content/uploads/2022/10/image-202-2.jpg",
-            "https://smdc.com/content/uploads/2022/10/image-623.jpg",
-            "https://smdc.com/content/uploads/2022/10/image-238.jpg",
-            "https://smdc.com/content/uploads/2022/10/image-239.jpg",
-            "https://smdc.com/content/uploads/2022/10/image-202-2.jpg"
+        "bannerImage": "/image/someImage.jpg",
+        "gallery": [
+            "%PUBLIC_URL%/image/someImage.jpg"
         ]
     },
     {
